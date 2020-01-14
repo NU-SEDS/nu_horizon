@@ -68,3 +68,9 @@ If an ide exension doesnt exist the command-line applications can be used.
 ## .msg/.srv/.action
 When defining custom messages, services, and actions always...
 * Comment Units for scalar quantities
+
+# Workflow
+* Rules for workflow
+    * NEVER COMMIT DIRECTLY TO MASTER
+    * Add all features on branches
+    * PR's must be reviewed by 2 people before merging
